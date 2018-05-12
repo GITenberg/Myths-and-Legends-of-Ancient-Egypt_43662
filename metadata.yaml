@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5707
     wikipedia: http://en.wikipedia.org/wiki/Lewis_Spence
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43662#Myths-and-Legends-of-Ancient-Egypt
 gutenberg_issued: '2013-09-07'
 gutenberg_type: Text
 identifiers:
